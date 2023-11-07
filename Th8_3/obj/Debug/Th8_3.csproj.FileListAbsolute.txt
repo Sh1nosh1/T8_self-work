@@ -1,0 +1,8 @@
+D:\ОАиП\Th8_3\bin\Debug\Th8_3.exe.config
+D:\ОАиП\Th8_3\bin\Debug\Th8_3.exe
+D:\ОАиП\Th8_3\bin\Debug\Th8_3.pdb
+D:\ОАиП\Th8_3\obj\Debug\Th8_3.csproj.AssemblyReference.cache
+D:\ОАиП\Th8_3\obj\Debug\Th8_3.csproj.SuggestedBindingRedirects.cache
+D:\ОАиП\Th8_3\obj\Debug\Th8_3.csproj.CoreCompileInputs.cache
+D:\ОАиП\Th8_3\obj\Debug\Th8_3.exe
+D:\ОАиП\Th8_3\obj\Debug\Th8_3.pdb
